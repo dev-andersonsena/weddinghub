@@ -1,0 +1,6 @@
+{
+  "name": "Casamento Henderson & Alana",
+  "description": "Portal de Casamento Premium com convite digital, confirmação de presença (RSVP), lista de presentes integrada, mural interativo de fotos, passes com QR Code individuais e analytics em tempo real para os noivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
